@@ -1,8 +1,5 @@
-<h1 align="center">
-Hi, JulenHopp
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<h1 align="center">Hi 👋, I'm JulenHopp</h1>
+
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -10,18 +7,17 @@ Hi, JulenHopp
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-
 <hr>
 
 ```
 JulenHopp@github
 -------------------------
-💻 I am a self taught Full Stack Developer
+🔭 I’m currently working on [my personal portfolio v3](https://github.com/JulenHopp/portfolio_v3.git)
 📚 Currently persuing a Bachelor’s in Computer Science and Technology at Tecnológico de Monterrey 
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Full Stack development
-🌟 Main languages: C++, JavaScript, Python
-🚩 Interested in Full Stack Application development
+🌱 I’m currently learning Full Stack Development and Unity 2D
+👨‍💻 All of my projects are available at https://www.julenhopp.com/
+📫 How to reach me jhm_e@outlook.com
+📄 Know about my experiences https://flowcv.com/resume/vs79338qrl
 ```
 <hr>
 
