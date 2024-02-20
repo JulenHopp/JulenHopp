@@ -19,40 +19,60 @@ JulenHopp@github
 📫 How to reach me jhm_e@outlook.com
 📄 Know about my experiences https://flowcv.com/resume/vs79338qrl
 ```
+
 <hr>
 
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Software Development Skills
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23339933?logo=Node.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=MySQL&logoColor=white">   
 </p>
 
-### 💻 Software and Tools
+### 🧰 Tools, Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?logo=GitHub&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Postmand-%23FF6C37?logo=postman&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?logo=Jupyter&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Express-%23000000?logo=Express&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%23150458?logo=Pandas&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-%23013243?logo=NumPy&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/Unity-%23000000?logo=Unity&logoColor=white">
+
 </p>
+
+### 💻 Engineering Principles and Practices
+
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Scrum-%23009FDA?logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Object--Oriented-%23FF9900?logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Data--Structures-%23669DF6?logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Algorithms-%2300BCB4?logoColor=white">
+</p>
+
+## 🌐 Connect with me:
+<p>
+  <a href="https://linkedin.com/in/julenhopp" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIN&logoColor=white"></a>
+  <a href="https://www.leetcode.com/julenhopp" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-%23FFA116?logo=LeetCode&logoColor=white"></a>
+</p>
+
+## ⭐ Stats
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julenhopp&" alt="julenhopp" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julenhopp&show_icons=true&locale=en&layout=compact" alt="julenhopp" /></p>
+
 
 
