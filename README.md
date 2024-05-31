@@ -14,10 +14,10 @@ JulenHopp@github
 -------------------------
 🔭 I’m currently working on [my personal portfolio v3](https://github.com/JulenHopp/portfolio_v3.git)
 📚 Currently persuing a Bachelor’s in Computer Science and Technology at Tecnológico de Monterrey 
-🌱 I’m currently learning Full Stack Development and Unity 2D
+🌱 I’m currently learning Full Stack Development
 👨‍💻 All of my projects are available at https://www.julenhopp.com/
 📫 How to reach me jhm_e@outlook.com
-📄 Know about my experiences https://flowcv.com/resume/vs79338qrl
+📄 Know about my experiences https://julenhopp.com/resume
 ```
 
 <hr>
